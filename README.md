@@ -1,2 +1,1 @@
-# puppeteer_demo
-Exploring Web Scraping with Puppeteer
+# Exploring Web Scraping with Puppeteer
